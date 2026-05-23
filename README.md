@@ -21,7 +21,7 @@ O objetivo é praticar conceitos fundamentais de programação e desenvolver rac
 
  ---
 
--##  Observações
--Exercícios baseados na Apostila FACQAT.
--As soluções podem variar em implementação, mas seguem a lógica proposta.
--Este repositório é voltado para estudo e prática.
+- ##  Observações
+- Exercícios baseados na Apostila FACQAT.
+- As soluções podem variar em implementação, mas seguem a lógica proposta.
+- Este repositório é voltado para estudo e prática.
