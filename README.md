@@ -1,6 +1,6 @@
 #  Apostila FACQAT - Lógica de Programação
 
-Este repositório reúne a resolução dos exercícios da **Apostila FACQAT de Lógica de Programação**, contendo aproximadamente **55 a 60 atividades**.  
+Este repositório reúne a resolução dos exercícios da **Apostila FACQAT de Lógica de Programação**, contendo  **55 atividades**.  
 O objetivo é praticar conceitos fundamentais de programação e desenvolver raciocínio lógico por meio de exercícios progressivos.
 
 ---
